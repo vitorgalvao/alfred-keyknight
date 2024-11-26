@@ -369,13 +369,13 @@ An Alfred Worfklow to review the layout of your keyboard and corresponding finge
 				<key>defaultvalue</key>
 				<integer>4</integer>
 				<key>markercount</key>
-				<integer>6</integer>
+				<integer>7</integer>
 				<key>maxvalue</key>
 				<integer>8</integer>
 				<key>minvalue</key>
 				<integer>2</integer>
 				<key>onlystoponmarkers</key>
-				<false/>
+				<true/>
 				<key>showmarkers</key>
 				<true/>
 			</dict>
@@ -400,7 +400,7 @@ An Alfred Worfklow to review the layout of your keyboard and corresponding finge
 				<key>minvalue</key>
 				<integer>0</integer>
 				<key>onlystoponmarkers</key>
-				<false/>
+				<true/>
 				<key>showmarkers</key>
 				<true/>
 			</dict>
@@ -417,7 +417,7 @@ An Alfred Worfklow to review the layout of your keyboard and corresponding finge
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>0.1</string>
+	<string>0.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/giovannicoppola/alfred-keyknight</string>
 </dict>
